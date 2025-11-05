@@ -9,6 +9,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^4.21.0",
+    "fluento": "file:..",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.2",
     "stream-chat": "^8.60.0"
@@ -17,10 +18,11 @@
     "nodemon": "^3.1.9"
   },
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "author": "",
-  "type" : "module",
+  "type": "module",
   "license": "ISC"
 }
