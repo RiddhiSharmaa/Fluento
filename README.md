@@ -50,7 +50,6 @@ VITE_STREAM_API_KEY=your_stream_api_key
 
 ---
 
----
 
 ## 🧪 Local Development
 
